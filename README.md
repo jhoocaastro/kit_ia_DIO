@@ -54,34 +54,107 @@ Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal 
 
 ### Minha Tarefa Real
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+Pedi uma rotina para consultar minha agenda e meus e-mails aos domingos, às 21h, e preparar um PDF com informações para as reuniões dos próximos sete dias. Quando não houver reuniões, quero receber um conteúdo atualizado sobre IA, com exemplos úteis para o dia a dia.
 
-### Meus Atalhos
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+Usei o kit no geral como referência e desenvolvi os prompts com apoio do ChatGPT, adaptando-os à minha rotina.
+
 
 ```text
-Cole aqui o seu primeiro atalho, já adaptado.
+Prepare um resumo das minhas reuniões dos próximos sete dias.
+
+Consulte minha agenda e, se houver acesso autorizado, busque nos
+e-mails informações relacionadas às reuniões.
+
+Para cada reunião, apresente:
+- Data, horário e assunto.
+- Objetivo identificado no convite ou nas mensagens.
+- Contexto necessário para eu chegar preparado.
+- Pendências e materiais que preciso revisar.
+- Sugestões de perguntas para esclarecer pontos em aberto.
+
+Diferencie informações encontradas de sugestões suas.
+Não invente detalhes. Avise se não conseguir acessar alguma fonte.
+Não envie mensagens nem altere minha agenda.
 ```
 
 ```text
-Cole aqui o seu segundo atalho, já adaptado.
+Selecione um tema de inteligência artificial que possa melhorar
+minha rotina de trabalho e prepare um material de estudo em
+português, no nível intermediário prático.
+
+Inclua:
+- Uma explicação clara do tema.
+- Um exemplo de aplicação no dia a dia.
+- Um exercício que eu possa testar em até 30 minutos.
+- Cuidados com privacidade e limitações.
+- Links das fontes consultadas e suas datas, quando disponíveis.
+
+Se apresentar novidades, pesquise fontes atuais e diferencie
+a data da publicação da data do acontecimento.
+
+Use exemplos fictícios, sem dados pessoais ou de clientes.
+Entregue em PDF se houver recurso disponível; caso contrário,
+entregue o conteúdo formatado e informe essa limitação.
 ```
 
 ### Minha Delegação
 
 ```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
+Ajudar-me a começar a semana preparado para reuniões e manter
+um aprendizado contínuo sobre inteligência artificial.
+
+Contexto:
+Nem sempre tenho reuniões agendadas. Quando não houver reuniões,
+quero aproveitar o relatório semanal para aprender algo útil.
+
+Rotina desejada:
+Executar aos domingos, às 21h, no fuso America/Sao_Paulo.
+O agendamento precisa ser configurado e confirmado em uma
+ferramenta que ofereça esse recurso.
+
+Recursos:
+Google Agenda e Gmail, quando conectados e autorizados;
+pesquisa na internet para o conteúdo de IA; geração de PDF,
+quando disponível.
+
+Tarefa:
+1. Consultar a agenda dos próximos sete dias.
+2. Se houver reuniões, buscar e-mails relacionados e preparar
+   um resumo com contexto, pendências e perguntas sugeridas.
+3. Se não houver reuniões, preparar um material sobre um tema
+   atual de IA com aplicação prática.
+4. Gerar um PDF organizado em português.
+
+Limites:
+Não enviar e-mails, responder convites ou alterar compromissos.
+Não inventar informações nem tratar falhas de acesso como
+ausência de reuniões.
+Se faltar acesso a uma fonte, informar a limitação.
+Não publicar informações pessoais ou profissionais no GitHub.
+
+Critério de sucesso:
+Receber um material claro, com fontes verificáveis, que me
+ajude a preparar as reuniões ou testar uma aplicação de IA.
 ```
 
 ### O Plano da IA
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+Antes de começar, pedi que a IA explicasse o que havia entendido
+da minha solicitação. Ela propôs consultar minha agenda, relacionar
+os e-mails às reuniões e organizar um PDF com sugestões de pauta
+e informações para minha preparação.
+
+O print abaixo mostra essa proposta inicial.
+
+<img width="1250" height="802" alt="image" src="https://github.com/user-attachments/assets/443e753a-9d59-4af9-b97c-c23ea8b33d56" />
 
 ### O Resultado
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/dc03c6ae-fc8f-4b3a-8b86-3c7b6af43c7b" />
+
+Fiz um teste e a IA gerou um PDF. Abri o PDF e conferi se o conteúdo estava de acordo com o pedido e se os links das fontes funcionavam. Conforme minha solicitação. A rotina prevê preparar informações para reuniões ou, quando não houver compromissos, produzir um conteúdo sobre IA.
 
 ### Como Foi para Você
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Aprendi a fazer pedidos mais claros à IA, definindo o objetivo, os recursos e os limites. Vi como ela pode ajudar na preparação de reuniões e no aprendizado de assuntos úteis para minha rotina.
